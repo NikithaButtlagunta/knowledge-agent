@@ -42,6 +42,9 @@ The application provides a simple interface for uploading PDF documents, asking 
 
 ## 🏗️ Architecture
 
+![Knowledge Agent Architecture](architecture.png)
+
+
 ```text
                     ┌─────────────────────┐
                     │       User          │
@@ -88,3 +91,6 @@ The application provides a simple interface for uploading PDF documents, asking 
                    ┌─────────────────────┐
                    │ Answer + Sources    │
                    └─────────────────────┘
+
+
+  
