@@ -24,6 +24,22 @@ The application retrieves relevant information from uploaded documents and uses 
 
 ---
 
+
+# 🤖 Knowledge Agent — AI-Powered PDF Question Answering
+
+An AI-powered Retrieval-Augmented Generation (RAG) application that allows users to upload PDF documents and ask natural-language questions about their content.
+
+---
+
+## 📸 Application Preview
+
+![Knowledge Agent](screenshot.png)
+
+The application provides a simple interface for uploading PDF documents, asking questions, and viewing answers with source references.
+
+---
+
+
 ## 🏗️ Architecture
 
 ```text

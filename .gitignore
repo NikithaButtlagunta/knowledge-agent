@@ -14,8 +14,6 @@ __pycache__/
 
 # Local application data
 data/
-data/*
-!data/.gitkeep
 
 # IDE
 .vscode/
