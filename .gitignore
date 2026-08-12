@@ -1,16 +1,29 @@
+# Virtual environment
 .venv/
+venv/
+
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
+# Environment variables
 .env
 .env.*
 
-data/uploads/
-data/chroma/
+# Local application data
+data/
+data/*
+!data/.gitkeep
 
+# IDE
 .vscode/
 .idea/
 
+# Logs
 *.log
+
+# OS files
 .DS_Store
 Thumbs.db
